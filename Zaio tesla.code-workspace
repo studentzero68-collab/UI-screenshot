@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": ".."
+        },
+        {
+            "path": "../../Zaio Netflix"
+        },
+        {
+            "path": "../../Zaio tesla"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Zaio Netflix"
+    }
+}
